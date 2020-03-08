@@ -1,0 +1,12 @@
+{
+  "name": "vxp-vue-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kenblikylee/vxp-vue-admin.git",
+  "author": "kenblikylee <kenblikylee@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vxp": "^1.0.0-alpha",
+    "vxp-plugin-vue-admin": "^1.0.0-alpha"
+  }
+}
